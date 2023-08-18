@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 중간 디렉터리(x64\Release\)에 다른 프로젝트(Self-diagnosis kit_Line_Extraction (Pro. MJ).vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  MFCApplication3Dlg.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1371,5): warning MSB8012: TargetPath(C:\Users\오민진\Desktop\MFCApplication3\x64\Release\Line_RGB_Extraction v.0.0.1 (Pro. MJ).exe)이(가) Linker의 OutputFile 속성 값(C:\Users\오민진\Desktop\MFCApplication3\x64\Release\Line_RGB_Extraction v 0.0.1 (Pro. MJ).exe)과 일치하지 않습니다. 이로 인해 프로젝트가 잘못 빌드될 수 있습니다. 이를 수정하려면 $(OutDir), $(TargetName) 및 $(TargetExt) 속성 값이 %(Link.OutputFile)에 지정된 값과 일치해야 합니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1373,5): warning MSB8012: TargetName(Line_RGB_Extraction v.0.0.1 (Pro. MJ))이(가) Linker의 OutputFile 속성 값(Line_RGB_Extraction v 0.0.1 (Pro. MJ))과 일치하지 않습니다. 이로 인해 프로젝트가 잘못 빌드될 수 있습니다. 이를 수정하려면 $(OutDir), $(TargetName) 및 $(TargetExt) 속성 값이 %(Link.OutputFile)에 지정된 값과 일치해야 합니다.
+  코드를 생성하고 있습니다.
+  0 of 391 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  MFCApplication3.vcxproj -> C:\Users\오민진\Desktop\MFCApplication3\x64\Release\Line_RGB_Extraction v.0.0.1 (Pro. MJ).exe

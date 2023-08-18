@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  MFCApplication3.cpp
+  MFCApplication3Dlg.cpp
+C:\Users\허영일\Desktop\MFCApplication3\MFCApplication3\MFCApplication3Dlg.cpp(10,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2\opencv.hpp': No such file or directory
+  코드를 생성하고 있습니다...
